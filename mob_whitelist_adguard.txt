@@ -129,3 +129,4 @@
 @@||unifi.ui.com^
 @@||ubnt.com^
 @@||cockpit.ticway.com.br^
+@@||login.microsoftonline.com^
