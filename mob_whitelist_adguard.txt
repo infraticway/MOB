@@ -8,7 +8,6 @@
 @@||whatsapp.com^
 @@||web.whatsapp.com^
 @@||whatsapp.net^
-@@||facebook.com^
 @@||fbcdn.net^
 @@||google.com^
 @@||gstatic.com^
