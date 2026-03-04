@@ -134,3 +134,4 @@
 @@||ubnt.com^$important
 @@||cloudfront.net^
 @@||amazonaws.com^
+@@||amazonaws.com^
