@@ -1,7 +1,6 @@
 ! Mob Online - Whitelist DNS
 ! Permitir apenas domínios autorizados
-||facebook.com^
-||instagram.com^
+||*^
 @@||mobonline.com.br^
 @@||erp.mobonline.com.br^
 @@||stou.ifractal.com.br^
@@ -126,4 +125,6 @@
 @@||login.microsoftonline.com^
 @@||aadcdn.msauth.net^
 @@||secure.aadcdn.microsoftonline-p.com^
-
+@@||ui.com^
+@@||unifi.ui.com^
+@@||ubnt.com^
