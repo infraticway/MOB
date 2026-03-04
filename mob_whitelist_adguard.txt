@@ -128,3 +128,4 @@
 @@||ui.com^
 @@||unifi.ui.com^
 @@||ubnt.com^
+@@||cockpit.ticway.com.br^
