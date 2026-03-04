@@ -126,4 +126,4 @@
 @@||login.microsoftonline.com^
 @@||aadcdn.msauth.net^
 @@||secure.aadcdn.microsoftonline-p.com^
-||*
+
