@@ -130,3 +130,4 @@
 @@||ubnt.com^
 @@||cockpit.ticway.com.br^
 @@||login.microsoftonline.com^
+@@||admin.cloud.microsoft
