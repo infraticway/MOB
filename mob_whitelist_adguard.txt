@@ -132,3 +132,7 @@
 @@||login.microsoftonline.com^
 @@||admin.cloud.microsoft^
 @@||security.microsoft.com^
+@@||ui.com^$important
+@@||ubnt.com^$important
+@@||cloudfront.net^
+@@||amazonaws.com^
