@@ -1,8 +1,7 @@
 ! Mob Online - Whitelist DNS
 ! Permitir apenas domínios autorizados
-
-||*^
-
+||facebook.com^
+||instagram.com^
 @@||mobonline.com.br^
 @@||erp.mobonline.com.br^
 @@||web.whatsapp.com^
