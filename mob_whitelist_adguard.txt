@@ -225,3 +225,14 @@
 @@||pagseguro.com^
 @@||pagseguro.com.br^
 @@||uol.com.br^
+@@||jusbrasil.com.br^
+@@||jbassets.com^
+@@||static.jusbrasil.com.br^
+@@||cdn.jusbrasil.com.br^
+@@||fonts.googleapis.com^
+@@||fonts.gstatic.com^
+@@||cloudflare.com^
+@@||cloudflareinsights.com^
+@@||cdnjs.cloudflare.com^
+@@||cloudfront.net^
+@@||amazonaws.com^
