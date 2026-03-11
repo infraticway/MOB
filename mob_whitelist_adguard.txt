@@ -240,3 +240,4 @@
 @@||static.jusbr.com^
 @@||assets.jusbr.com^
 @@||jusbr.com^
+@@||my.microsoftpersonalcontent.com^
