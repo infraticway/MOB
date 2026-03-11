@@ -164,3 +164,15 @@
 @@||akamai.net^
 @@||akamaized.net^
 @@||akamaiedge.net^
+@@||jusbrasil.com.br^
+@@||jbassets.com^
+@@||cloudflare.com^
+@@||cloudflareinsights.com^
+@@||cdnjs.cloudflare.com^
+@@||fonts.googleapis.com^
+@@||fonts.gstatic.com^
+@@||fonts.googleapis.com^
+@@||fonts.gstatic.com^
+@@||cloudflare.com^
+@@||cloudfront.net^
+@@||cdn.jsdelivr.net^
