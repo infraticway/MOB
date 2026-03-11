@@ -236,3 +236,7 @@
 @@||cdnjs.cloudflare.com^
 @@||cloudfront.net^
 @@||amazonaws.com^
+@@||jusbrasil.com.br^
+@@||static.jusbr.com^
+@@||assets.jusbr.com^
+@@||jusbr.com^
