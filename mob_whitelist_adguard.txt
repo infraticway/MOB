@@ -241,3 +241,4 @@
 @@||assets.jusbr.com^
 @@||jusbr.com^
 @@||my.microsoftpersonalcontent.com^
+@@||pj.santandernetibe.com.br^
