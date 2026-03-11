@@ -245,6 +245,6 @@
 @@||gov.br^
 @@||receita.fazenda.gov.br^
 @@||solucoes.receita.fazenda.gov.br^
-@@||163.176.227.180^
-@@||147.15.105.29^
-@@||163.176.218.83^
+@@||oraclecloud.com^
+@@||oci.oraclecloud.com^
+@@||oracle.com^
