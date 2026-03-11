@@ -242,3 +242,7 @@
 @@||jusbr.com^
 @@||my.microsoftpersonalcontent.com^
 @@||pj.santandernetibe.com.br^
+@@||gov.br^
+@@||receita.fazenda.gov.br^
+@@||solucoes.receita.fazenda.gov.br^
+@@||163.176.227.180^
