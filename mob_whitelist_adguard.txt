@@ -392,3 +392,4 @@
 @@||*.resources.office.net^
 @@||*.getdemo.com.br^
 @@||*.googletagmanager.com^
+@@||*.token.mobonline^
