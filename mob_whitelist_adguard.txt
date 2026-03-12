@@ -377,3 +377,4 @@
 @@||cloudflareinsights.com^
 @@||cav.receita.fazenda.gov.br^
 @@||*.serpro.gov.br^
+@@||hcaptcha.com^
