@@ -320,3 +320,15 @@
 
 @@||googleapis.com^
 @@||*.googleapis.com^
+@@||digicert.com^
+@@||*.digicert.com^
+
+@@||letsencrypt.org^
+@@||*.letsencrypt.org^
+
+@@||globalsign.com^
+@@||*.globalsign.com^
+
+@@||ocsp.digicert.com^
+@@||crl3.digicert.com^
+@@||crl4.digicert.com^
