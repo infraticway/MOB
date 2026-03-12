@@ -277,3 +277,27 @@
 
 @@||oaiusercontent.com^
 @@||*.oaiusercontent.com^
+@@||gov.br^
+@@||*.gov.br^
+
+@@||fazenda.gov.br^
+@@||*.fazenda.gov.br^
+
+@@||sistema.gov.br^
+@@||*.sistema.gov.br^
+
+@@||receita.fazenda.gov.br^
+@@||*.receita.fazenda.gov.br^
+@@||google.com^
+@@||*.google.com^
+
+@@||gstatic.com^
+@@||*.gstatic.com^
+
+@@||recaptcha.net^
+@@||*.recaptcha.net^
+@@||acesso.gov.br^
+@@||*.acesso.gov.br^
+
+@@||login.gov.br^
+@@||*.login.gov.br^
