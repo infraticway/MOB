@@ -322,3 +322,4 @@
 @@||*.cloudflare.com^
 
 @@||cloudflareinsights.com^
+@@||api.hcaptcha.com^
