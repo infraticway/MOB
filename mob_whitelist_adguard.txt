@@ -394,3 +394,6 @@
 @@||*.googletagmanager.com^
 @@||*.token.mobonline^
 @@||*.msn.com^
+@@||static.axept.io
+@@||js.hsforms.net
+@@||cdn.prod.website-files.com
