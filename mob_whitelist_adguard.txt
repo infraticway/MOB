@@ -12,15 +12,22 @@
 @@||whatsapp.net^
 
 @@||google.com^
+@@||*.google.com^
 @@||gstatic.com^
+@@||*.gstatic.com^
 @@||googleapis.com^
+@@||*.googleapis.com^
 @@||googleusercontent.com^
 
 @@||outlook.live.com^
 @@||live.com^
+@@||*.live.com^
 @@||microsoft.com^
+@@||*.microsoft.com^
 @@||office.com^
+@@||*.office.com^
 @@||office365.com^
+@@||*.office365.com^
 @@||msedge.net^
 
 @@||bb.com.br^
@@ -49,15 +56,20 @@
 @@||fgtsdigital.sistema.gov.br^
 
 @@||receita.fazenda.gov.br^
+@@||*.receita.fazenda.gov.br^
 @@||servicos.receita.fazenda.gov.br^
 @@||cav.receita.fazenda.gov.br^
 
 @@||esocial.gov.br^
 @@||acesso.gov.br^
+@@||*.acesso.gov.br^
+@@||login.gov.br^
+@@||*.login.gov.br^
 @@||mte.gov.br^
 @@||trabalho.gov.br^
 
 @@||contmatic.com.br^
+@@||*.contmatic.com.br^
 @@||prosesmt.com.br^
 @@||dasa.com.br^
 @@||intelbras.com^
@@ -86,6 +98,8 @@
 
 @@||wetransfer.com^
 @@||*.wetransfer.com^
+@@||*.wetransfer.net^
+@@||we.tl^
 
 @@||mogidascruzes.sp.gov.br^
 
@@ -112,6 +126,7 @@
 @@||azure.com^$important
 
 @@||microsoftonline.com^
+@@||*.microsoftonline.com^
 @@||microsoftonline-p.com^
 @@||msauth.net^
 @@||msftauthimages.net^
@@ -126,6 +141,7 @@
 @@||windows.com^
 
 @@||azureedge.net^
+@@||*.azureedge.net^
 @@||msecnd.net^
 
 @@||visualstudio.com^
@@ -156,7 +172,9 @@
 @@||cockpit.ticway.com.br^
 
 @@||cloudfront.net^
+@@||*.cloudfront.net^
 @@||amazonaws.com^
+@@||*.amazonaws.com^
 @@||akamai.net^
 
 @@||pool.ntp.org^
@@ -178,6 +196,8 @@
 
 @@||skyinone.net^
 @@||*.skyinone.net^
+@@||*.skyone.cloud^
+@@||*.skyinone.cloud^
 @@||contmatic.skyinone.net^
 
 @@||chatgpt.com^
@@ -186,6 +206,8 @@
 @@||*.openai.com^
 @@||oaistatic.com^
 @@||*.oaistatic.com^
+@@||oaiusercontent.com^
+@@||*.oaiusercontent.com^
 
 @@||jusbrasil.com.br^
 @@||jbassets.com^
@@ -199,6 +221,7 @@
 @@||fonts.gstatic.com^
 
 @@||cloudflare.com^
+@@||*.cloudflare.com^
 @@||cloudflareinsights.com^
 @@||cdnjs.cloudflare.com^
 @@||cdn.jsdelivr.net^
@@ -206,12 +229,6 @@
 @@||outlook.cloud.microsoft^
 @@||outlook.office.com^
 @@||outlook.office365.com^
-
-@@||*.microsoft.com^
-@@||*.microsoftonline.com^
-@@||*.office.com^
-@@||*.office365.com^
-@@||*.live.com^
 
 @@||novoconcilcard.com.br^
 @@||sigcon.seplan.mt.gov.br^
@@ -241,58 +258,56 @@
 @@||pj.santandernetibe.com.br^
 
 @@||gov.br^
+@@||*.gov.br^
 @@||solucoes.receita.fazenda.gov.br^
 
 @@||oraclecloud.com^
-@@||oci.oraclecloud.com^
-@@||oracle.com^
-@@||*.autosky.app^
-@@||*.teamviewer.com^
-@@||*.skyinone.net^
-@@||*.skyone.cloud^
-@@||*.skyinone.cloud^
-@@||*.contmatic.com.br^
-@@||oraclecloud.com^
 @@||*.oraclecloud.com^
 @@||oci.oraclecloud.com^
+@@||oracle.com^
+
+@@||*.autosky.app^
+@@||*.teamviewer.com^
+
 @@||*.windows.net^
-@@||*.azureedge.net^
 @@||*.trafficmanager.net^
-@@||*.cloudfront.net^
-@@||*.amazonaws.com^
-@@||*.cloudflare.com^
-@@||*.cloudflareinsights.com^
-@@||wetransfer.com^
-@@||*.wetransfer.com^
-@@||*.wetransfer.net^
-@@||we.tl^
-@@||chatgpt.com^
-@@||*.chatgpt.com^
 
-@@||openai.com^
-@@||*.openai.com^
+@@||api.hcaptcha.com^
 
-@@||oaistatic.com^
-@@||*.oaistatic.com^
-
-@@||oaiusercontent.com^
-@@||*.oaiusercontent.com^
 @@||gov.br^
 @@||*.gov.br^
 
 @@||acesso.gov.br^
 @@||*.acesso.gov.br^
 
-@@||sistema.gov.br^
-@@||*.sistema.gov.br^
+@@||login.gov.br^
+@@||*.login.gov.br^
+
+@@||sso.acesso.gov.br^
+@@||contas.acesso.gov.br^
+
+@@||receita.fazenda.gov.br^
+@@||*.receita.fazenda.gov.br^
 
 @@||fazenda.gov.br^
 @@||*.fazenda.gov.br^
 
-@@||receita.fazenda.gov.br^
-@@||*.receita.fazenda.gov.br^
-@@||google.com^
-@@||*.google.com^
+@@||sistema.gov.br^
+@@||*.sistema.gov.br^
+
+@@||serpro.gov.br^
+@@||*.serpro.gov.br^
+
+@@||servicos.receita.fazenda.gov.br^
+@@||solucoes.receita.fazenda.gov.br^
+@@||cav.receita.fazenda.gov.br^
+
+@@||cloudfront.net^
+@@||*.cloudfront.net^
+
+@@||cloudflare.com^
+@@||*.cloudflare.com^
+@@||cloudflareinsights.com^
 
 @@||google.com^
 @@||*.google.com^
@@ -305,21 +320,3 @@
 
 @@||googleapis.com^
 @@||*.googleapis.com^
-
-@@||recaptcha.net^
-@@||*.recaptcha.net^
-@@||acesso.gov.br^
-@@||*.acesso.gov.br^
-
-@@||login.gov.br^
-@@||*.login.gov.br^
-@@||cav.receita.fazenda.gov.br^
-@@||*.serpro.gov.br^
-@@||cloudfront.net^
-@@||*.cloudfront.net^
-
-@@||cloudflare.com^
-@@||*.cloudflare.com^
-
-@@||cloudflareinsights.com^
-@@||api.hcaptcha.com^
