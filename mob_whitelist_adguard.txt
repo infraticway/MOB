@@ -247,3 +247,15 @@
 @@||oci.oraclecloud.com^
 @@||oracle.com^
 @@||*.teamviewer.com^
+@@||*.skyinone.net^
+@@||*.skyone.cloud^
+@@||*.skyinone.cloud^
+@@||*.contmatic.com.br^
+@@||oraclecloud.com^
+@@||*.oraclecloud.com^
+@@||oci.oraclecloud.com^
+@@||*.windows.net^
+@@||*.azureedge.net^
+@@||*.trafficmanager.net^
+@@||*.cloudfront.net^
+@@||*.amazonaws.com^
