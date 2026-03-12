@@ -393,3 +393,4 @@
 @@||*.getdemo.com.br^
 @@||*.googletagmanager.com^
 @@||*.token.mobonline^
+@@||*.msn.com^
