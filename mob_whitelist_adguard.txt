@@ -388,3 +388,7 @@
 @@||beneficios.swile.com.br^
 @@||atendimento.erpdamoda.com.br^
 @@||*.erpdamoda.com.br^
+@@||*.supabase.co^
+@@||*.resources.office.net^
+@@||*.getdemo.com.br^
+@@||*.googletagmanager.com^
