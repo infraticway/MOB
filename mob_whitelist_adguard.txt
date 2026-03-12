@@ -387,3 +387,4 @@
 
 @@||beneficios.swile.com.br^
 @@||atendimento.erpdamoda.com.br^
+@@||*.erpdamoda.com.br^
