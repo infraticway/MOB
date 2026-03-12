@@ -246,6 +246,7 @@
 @@||oraclecloud.com^
 @@||oci.oraclecloud.com^
 @@||oracle.com^
+@@||*.autosky.app^
 @@||*.teamviewer.com^
 @@||*.skyinone.net^
 @@||*.skyone.cloud^
