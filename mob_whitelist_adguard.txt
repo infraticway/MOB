@@ -378,3 +378,12 @@
 @@||cav.receita.fazenda.gov.br^
 @@||*.serpro.gov.br^
 @@||hcaptcha.com^
+
+@@||swile.com.br^
+@@||*.swile.com.br^
+
+@@||swile.com^
+@@||*.swile.com^
+
+@@||beneficios.swile.com.br^
+@@||atendimento.erpdamoda.com.br^
