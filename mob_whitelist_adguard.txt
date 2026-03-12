@@ -280,14 +280,20 @@
 @@||gov.br^
 @@||*.gov.br^
 
-@@||fazenda.gov.br^
-@@||*.fazenda.gov.br^
+@@||acesso.gov.br^
+@@||*.acesso.gov.br^
 
 @@||sistema.gov.br^
 @@||*.sistema.gov.br^
 
+@@||fazenda.gov.br^
+@@||*.fazenda.gov.br^
+
 @@||receita.fazenda.gov.br^
 @@||*.receita.fazenda.gov.br^
+@@||google.com^
+@@||*.google.com^
+
 @@||google.com^
 @@||*.google.com^
 
@@ -296,8 +302,23 @@
 
 @@||recaptcha.net^
 @@||*.recaptcha.net^
+
+@@||googleapis.com^
+@@||*.googleapis.com^
+
+@@||recaptcha.net^
+@@||*.recaptcha.net^
 @@||acesso.gov.br^
 @@||*.acesso.gov.br^
 
 @@||login.gov.br^
 @@||*.login.gov.br^
+@@||cav.receita.fazenda.gov.br^
+@@||*.serpro.gov.br^
+@@||cloudfront.net^
+@@||*.cloudfront.net^
+
+@@||cloudflare.com^
+@@||*.cloudflare.com^
+
+@@||cloudflareinsights.com^
