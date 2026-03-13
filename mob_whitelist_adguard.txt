@@ -403,3 +403,6 @@
 @@||js.hsforms.net^
 @@||cdn.prod.website-files.com^
 @@||api.giphy.com^
+@@||*.google.com.br^
+@@||*.gvt1.com^
+@@||*.cloud.microsoft^
