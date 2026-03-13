@@ -252,6 +252,11 @@
 @@||pagseguro.com^
 @@||pagseguro.com.br^
 @@||uol.com.br^
+@@||acesso.pagbank.com.br^
+@@||*.pagbank.com.br^
+
+@@||*.onedrive.com
+@@||api.onedrive.com
 
 @@||my.microsoftpersonalcontent.com^
 
