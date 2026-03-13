@@ -409,3 +409,7 @@
 @@||*.dnofd.com^
 @@||google-analytics.com^
 @@||ilovepdf.com^
+@@||portalpostal.com.br^
+@@||*.vtex.com^
+@@||*.vtex.com.br^
+@@||*.vtexassets.com^
