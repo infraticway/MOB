@@ -408,3 +408,4 @@
 @@||*.cloud.microsoft^
 @@||*.dnofd.com^
 @@||google-analytics.com^
+@@||ilovepdf.com^
