@@ -413,3 +413,4 @@
 @@||*.vtex.com^
 @@||*.vtex.com.br^
 @@||*.vtexassets.com^
+@@||sigasuaencomenda.com.br^
