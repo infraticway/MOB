@@ -414,3 +414,4 @@
 @@||*.vtex.com.br^
 @@||*.vtexassets.com^
 @@||sigasuaencomenda.com.br^
+@@||wa.me^
