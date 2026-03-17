@@ -415,3 +415,4 @@
 @@||*.vtexassets.com^
 @@||sigasuaencomenda.com.br^
 @@||wa.me^
+@@||bilheteunico.sptrans.com.br^
