@@ -416,6 +416,7 @@
 @@||sigasuaencomenda.com.br^
 @@||wa.me^
 @@||bilheteunico.sptrans.com.br^
+@@||*.vivo.com.br^
 @@||adobeacrobat.app.link/tb5PyGz4y1b^
 @@||auth.verointernet.com.br^
 @@||eej.at^
