@@ -421,3 +421,4 @@
 @@||auth.verointernet.com.br^
 @@||eej.at^
 @@||*.adobe.com^
+@@||*.caixa.gov.br^
