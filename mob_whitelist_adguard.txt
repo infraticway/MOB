@@ -421,4 +421,10 @@
 @@||auth.verointernet.com.br^
 @@||eej.at^
 @@||*.adobe.com^
+@@||*.adobe.com/id/^
 @@||*.caixa.gov.br^
+@@||*.adobe.io^
+@@||*.adobecc.com^
+@@||static.adobelogin.com^
+@@||adobe.tt.omtrdc.net^
+@@||*.adobecontent.io
