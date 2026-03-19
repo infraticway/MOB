@@ -417,6 +417,7 @@
 @@||wa.me^
 @@||bilheteunico.sptrans.com.br^
 @@||*.vivo.com.br^
-@@||adobeacrobat.app.link/tb5PyGz4y1b^
+@@||adobeacrobat.app.link^
 @@||auth.verointernet.com.br^
 @@||eej.at^
+@@||*.adobe.com^
