@@ -428,3 +428,5 @@
 @@||static.adobelogin.com^
 @@||adobe.tt.omtrdc.net^
 @@||*.adobecontent.io
+@@||click.omie.com.br^
+@@||*.omie.com.br^
