@@ -430,3 +430,4 @@
 @@||*.adobecontent.io
 @@||click.omie.com.br^
 @@||*.omie.com.br^
+@@||salvadorcard.com.br^
