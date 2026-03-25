@@ -431,3 +431,11 @@
 @@||click.omie.com.br^
 @@||*.omie.com.br^
 @@||salvadorcard.com.br^
+@@||http://*.update.microsoft.com^
+@@||*.update.microsoft.com^
+@@||*.windowsupdate.com^
+@@||download.windowsupdate.com^
+@@||download.microsoft.com^
+@@||*.delivery.mp.microsoft.com^
+@@||*.dl.delivery.mp.microsoft.com^
+@@||ntservicepack.microsoft.com^
