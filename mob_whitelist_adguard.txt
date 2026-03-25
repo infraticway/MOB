@@ -439,3 +439,5 @@
 @@||*.delivery.mp.microsoft.com^
 @@||*.dl.delivery.mp.microsoft.com^
 @@||ntservicepack.microsoft.com^
+@@||canallojista.multiplan.com.br^
+@@||portaliguatemi.com.br^
