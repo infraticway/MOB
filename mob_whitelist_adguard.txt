@@ -441,3 +441,4 @@
 @@||ntservicepack.microsoft.com^
 @@||canallojista.multiplan.com.br^
 @@||portaliguatemi.com.br^
+@@||verointernet.com.br^^
