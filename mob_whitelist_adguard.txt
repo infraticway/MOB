@@ -455,3 +455,4 @@
 @@||autologon.microsoftazuread-sso.com^
 @@||tunnel.googlezip.net^
 @@||api-g-p.multiplan.com.br^
+@@||boletos.sistemasgarbiminformatica.com.br^
