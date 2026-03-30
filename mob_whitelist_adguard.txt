@@ -456,3 +456,4 @@
 @@||tunnel.googlezip.net^
 @@||api-g-p.multiplan.com.br^
 @@||boletos.sistemasgarbiminformatica.com.br^
+@@||plugboleto.com.br^
