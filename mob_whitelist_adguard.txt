@@ -448,8 +448,10 @@
 @@||addin.insights.static.microsoft
 @@||mbiz.mailclick.me^
 @@||*.amazontrust.com^
-@@||oneclient.sfx.ms
-@@||cerberus.eazybe.com
-@@||tunnel.googlezip.net
-@@||googleadservices.com
-@@||autologon.microsoftazuread-sso.com
+@@||oneclient.sfx.ms^
+@@||cerberus.eazybe.com^
+@@||tunnel.googlezip.net^
+@@||googleadservices.com^
+@@||autologon.microsoftazuread-sso.com^
+@@||tunnel.googlezip.net^
+@@||api-g-p.multiplan.com.br^
