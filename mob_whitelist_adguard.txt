@@ -441,4 +441,6 @@
 @@||ntservicepack.microsoft.com^
 @@||canallojista.multiplan.com.br^
 @@||portaliguatemi.com.br^
-@@||verointernet.com.br^^
+@@||verointernet.com.br^
+@@||canallojista.multiplan.com.br^
+@@||vee-digital.zendesk.com^
