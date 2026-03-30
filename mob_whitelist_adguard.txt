@@ -450,3 +450,6 @@
 @@||*.amazontrust.com^
 @@||oneclient.sfx.ms
 @@||cerberus.eazybe.com
+@@||tunnel.googlezip.net
+@@||googleadservices.com
+@@||autologon.microsoftazuread-sso.com
