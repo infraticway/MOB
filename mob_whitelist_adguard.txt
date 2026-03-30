@@ -444,3 +444,7 @@
 @@||verointernet.com.br^
 @@||canallojista.multiplan.com.br^
 @@||vee-digital.zendesk.com^
+@@||*.ct.sendgrid.net^
+@@||addin.insights.static.microsoft
+@@||mbiz.mailclick.me^
+@@||*.amazontrust.com^
