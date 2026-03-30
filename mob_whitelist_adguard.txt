@@ -448,3 +448,5 @@
 @@||addin.insights.static.microsoft
 @@||mbiz.mailclick.me^
 @@||*.amazontrust.com^
+@@||oneclient.sfx.ms
+@@||cerberus.eazybe.com
