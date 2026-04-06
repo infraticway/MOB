@@ -460,4 +460,5 @@
 @@||*.superlogica.net^
 @@||plazasulshopping.com.br^
 @@||lalamove.onelink.me^
-@@||www.enel.com.br^
+@@||*.enel.com.br^
+@@||enel.com.br^
