@@ -464,3 +464,4 @@
 @@||enel.com.br^
 @@||shoppingvillalobos.com.br^
 @@||shoppingcampogrande.com.br^
+@@||*.box.com^
