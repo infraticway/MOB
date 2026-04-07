@@ -465,3 +465,4 @@
 @@||shoppingvillalobos.com.br^
 @@||shoppingcampogrande.com.br^
 @@||*.box.com^
+@@||reclameaqui.com.br^
