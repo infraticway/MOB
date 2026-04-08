@@ -465,5 +465,6 @@
 @@||shoppingvillalobos.com.br^
 @@||shoppingcampogrande.com.br^
 @@||multiplananexo.box.com^
+@@||multiplananexo.box.com/s/^
 @@||reclameaqui.com.br^
 @@||accounts.enel.com^
