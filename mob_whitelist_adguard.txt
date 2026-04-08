@@ -469,3 +469,5 @@
 @@||reclameaqui.com.br^
 @@||accounts.enel.com^
 @@||cdn01.boxcdn.net^
+@@||dl.boxcloud.com^
+@@||public.boxcloud.com^
