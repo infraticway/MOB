@@ -471,3 +471,4 @@
 @@||cdn01.boxcdn.net^
 @@||dl.boxcloud.com^
 @@||public.boxcloud.com^
+@@||api.box.com^
