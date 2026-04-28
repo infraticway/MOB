@@ -473,3 +473,5 @@
 @@||public.boxcloud.com^
 @@||api.box.com^
 @@||sustentatelecom.com.br^
+
+@@||meuamericanetempresas.com.br^
