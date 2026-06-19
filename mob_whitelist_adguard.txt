@@ -584,3 +584,5 @@
 @@||servicos.mte.gov.br^
 
 @@||det.sit.trabalho.gov.br^
+
+@@||https://sincovarp.com.br^
