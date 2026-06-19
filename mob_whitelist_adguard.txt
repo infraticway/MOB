@@ -586,3 +586,5 @@
 @@||det.sit.trabalho.gov.br^
 
 @@||https://sincovarp.com.br^
+
+@@||sincovarp.com.br^
