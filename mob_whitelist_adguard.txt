@@ -598,3 +598,8 @@
 @@||cliente.contmatic.com.br^
 @@||supercalendario.com.br^
 @@||instagram.com^
+@@||cdninstagram.com^
+@@||fbcdn.net^
+@@||instagram.com^
+@@||ig.me^
+@@||facebook.com^
