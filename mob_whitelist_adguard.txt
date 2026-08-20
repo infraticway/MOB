@@ -603,3 +603,8 @@
 @@||instagram.com^
 @@||ig.me^
 @@||facebook.com^
+@@||whatsapp.com^
+@@||whatsapp.net^
+@@||whatsappbusiness.com^
+@@||origempay.com^
+@@||origempay.com.br^
