@@ -609,3 +609,4 @@
 @@||origempay.com^
 @@||origempay.com.br^
 @@||sincomercioal.com.br^
+@@||diretasistemas.com.br^
